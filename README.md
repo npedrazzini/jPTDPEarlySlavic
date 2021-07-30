@@ -1,4 +1,7 @@
 # OldSlavNet 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/npedrazzini/OldSlavNet.git/HEAD)
+
 > Full documentation here: https://npedrazzini.github.io/OldSlavNet/.
 > The following is only a summary.
 
